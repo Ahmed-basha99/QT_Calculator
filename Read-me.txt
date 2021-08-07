@@ -1,0 +1,4 @@
+After every operation, press C to delete every thing.
+Use the ++ to convert to decimal numbers to binary and add them afterwards.
+Use the D-B bottom to convert a number from decimal to binary.
+Note that the only way to input is by pressing the buttoms in the screen, and keyboard inpuut is not available.
